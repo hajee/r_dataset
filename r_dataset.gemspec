@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = RDataset::VERSION
   spec.authors       = ["Bert Hajee"]
   spec.email         = ["hajee@moretIA.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Easy create a dataset for R processing}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
